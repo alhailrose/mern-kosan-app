@@ -1,12 +1,10 @@
 const Hero = () => {
   return (
-    <div className='bg-red-400 pb-16'>
+    <div className='bg-blue-800 pb-16'>
       <div className='container mx-auto flex flex-col gap-2'>
-        <h1 className='text-5xl text-white font-bold'>
-          Kalian mau cari Kos Kosan ?
-        </h1>
+        <h1 className='text-5xl text-white font-bold'>Find your next stay</h1>
         <p className='text-2xl text-white'>
-          Cari kos kosan murah hanya ada disini (ada yang bebas loh)
+          Search low prices on hotels for your dream vacation...
         </p>
       </div>
     </div>
